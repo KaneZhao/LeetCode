@@ -10,4 +10,4 @@
 |   021      |   [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |    [Python](./Python/021_Merge_Two_Sorted_Lists.py) |   Linked List  |
 |   225      |   [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |    [Python](./Python/225_Implement_Stack_Using_Queues.py), [Java](./Java/225_Implement_Stack_Using_Queues.java) |  Queue  |
 |   232      |   [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |    [Python](./Python/232_Implement_Queue_Using_Stacks.py), [Java](./Java/232_Implement_Queue_Using_Stacks.java) |  Two Stacks  |
-|   094      |   [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) |    [Python](./Python/904_Fruit_Into_Baskets.py) |  HashMap  |
+|   904      |   [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) |    [Python](./Python/904_Fruit_Into_Baskets.py) |  HashMap  |
