@@ -9,6 +9,7 @@
 |   020      |   [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |    [Python](./Python/020_Valid_Parentheses.py), [Java](./Java/020_Valid_Parentheses.java) |  Stack  |
 |   021      |   [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |    [Python](./Python/021_Merge_Two_Sorted_Lists.py) |   Linked List  |
 |   094      |   [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |    [Python](./Python/094_Binary_Tree_Inorder_Traversal.py) |  Tree  |
+|   101      |   [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |    [Python](./Python/101_Symmetric_Tree.py), [Java](./Java/101_Symmetric_Tree.java) |  Tree  |
 |   225      |   [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |    [Python](./Python/225_Implement_Stack_Using_Queues.py), [Java](./Java/225_Implement_Stack_Using_Queues.java) |  Queue  |
 |   232      |   [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |    [Python](./Python/232_Implement_Queue_Using_Stacks.py), [Java](./Java/232_Implement_Queue_Using_Stacks.java) |  Two Stacks  |
 |   904      |   [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) |    [Python](./Python/904_Fruit_Into_Baskets.py) |  HashMap  |
