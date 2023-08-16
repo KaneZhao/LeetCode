@@ -7,6 +7,15 @@ Given the head of a linked list and an integer val, remove all the nodes of the 
 #         self.val = val
 #         self.next = next
 
+"""
+Recursion solution
+class Solution:
+    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
+        if not head:
+            return None
+        head.next = self.removeElements(head.next, val)
+        return head.next if head.val == val else head      
+"""
 # Set a virtual head node to perform the delete operation
 class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
@@ -19,4 +28,5 @@ class Solution:
             else:
                 pre = pre.next
             cur = cur.next
-        return node.next                
+        return node.next      
+
