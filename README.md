@@ -8,6 +8,7 @@
 |   015      |   [3Sum](https://leetcode.com/problems/3sum/) |    [Python](./Python/015_3Sum.py), [Java](./Java/015_3Sum.java) |   Two pointers  |
 |   020      |   [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |    [Python](./Python/020_Valid_Parentheses.py), [Java](./Java/020_Valid_Parentheses.java) |  Stack  |
 |   021      |   [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |    [Python](./Python/021_Merge_Two_Sorted_Lists.py) |   Linked List  |
+|   024      |   [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |    [Python](./Python/024_Swap_Nodes_in_Pairs.py), [Java](./Java/024_Swap_Nodes_in_Pairs.java) |  ListNode  |
 |   094      |   [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |    [Python](./Python/094_Binary_Tree_Inorder_Traversal.py) |  Tree  |
 |   101      |   [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |    [Python](./Python/101_Symmetric_Tree.py), [Java](./Java/101_Symmetric_Tree.java) |  Tree  |
 |   203      |   [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |    [Python](./Python/203_Remove_Linked_List_Elements.py), [Java](./Java/203_Remove_Linked_List_Elements.java) |   Linked List  |
