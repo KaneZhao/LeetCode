@@ -5,6 +5,7 @@
 |   003      |   [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |    [Python](./Python/003_Longest_Substring_Without_Repeating_Characters.py)|  Sliding Window  |
 |   007      |   [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |    [Python](./Python/007_Reverse_Integer.py)|  Math  |
 |   011      |   [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |    [Python](./Python/011_Container_With_Most_Water.py), [Java](./Java/011_Container_With_Most_Water.java) |   Two pointers, Greedy  |
+|   012      |   [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |    [Python](./Python/012_Integer_To_Roman.py) |   Hash Table  |
 |   015      |   [3Sum](https://leetcode.com/problems/3sum/) |    [Python](./Python/015_3Sum.py), [Java](./Java/015_3Sum.java) |   Two pointers  |
 |   018      |   [4Sum](https://leetcode.com/problems/4sum/) |    [Python](./Python/018_4Sum.py) |  Two pointers  |
 |   020      |   [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |    [Python](./Python/020_Valid_Parentheses.py), [Java](./Java/020_Valid_Parentheses.java) |  Stack  |
