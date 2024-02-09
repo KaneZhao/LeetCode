@@ -2,9 +2,6 @@
 
 // Note that you must do this in-place without making a copy of the array.
 
-
-
-
 class Solution {
     public void moveZeroes(int[] nums) {
         if (nums.length <= 1) {
