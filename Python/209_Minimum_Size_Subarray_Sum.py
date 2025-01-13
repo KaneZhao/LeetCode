@@ -25,3 +25,13 @@ class Solution:
 #                 cnt = min(cnt, i - start) 
 #                 start += 1
 #         return cnt
+    
+# def minSubArrayLen(self, target: int, nums: List[int]) -> int:
+#         i, res, min_len = 0, 0, 0
+#         for j in range(len(nums)):
+#             res += nums[j]
+#             while res >= target:
+#                 min_len = min(j - i + 1, min_len) if min_len > 0 else j - i + 1
+#                 res -= nums[i]
+#                 i += 1
+#         return min_len          
