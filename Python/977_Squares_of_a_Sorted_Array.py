@@ -3,13 +3,14 @@ Given an integer array nums sorted in non-decreasing order, return an array of t
 """
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        left, right = 0, len(nums) - 1
-        res = []
+        res = [None] * len(nums)
+        left, right, pos = 0, len(nums) - 1, len(nums) - 1
         while left <= right:
-            if abs(nums[right]) > abs(nums[left]):
-                res.append(nums[right] * nums[right])
-                right -= 1
+            if abs(nums[left]) > abs(nums[right]):
+                res[pos] = nums[left] * nums[left]
+                left += 1
             else:
-                res.append(nums[left] * nums[left])
-                left += 1                                   
-        return res[::-1]            
+                res[pos] = nums[right] * nums[right]
+                right -= 1   
+            pos -= 1    
+        return res               
